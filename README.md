@@ -1,2 +1,1 @@
-# github
-初入GitHub网站
+this is a bag that study.
